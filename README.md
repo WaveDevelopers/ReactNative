@@ -23,6 +23,7 @@ For starting React-native project run the following commands:
 This is for creating new React-native project which installs various folders including android, ios etc.
 
 2) react-native run-ios
+<br>
 Run above command after getting inside the project folder.
 This command build your app for ios with .ip extension.
 
