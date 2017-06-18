@@ -1,5 +1,5 @@
 # ReactNative
-This repository is created and managed by "WaveDevelopers" and our mission is to provide easy solutions for beginners in ReactNative.
+This repository is created and managed by <b>"WaveDevelopers"</b> and our mission is to provide easy solutions for beginners in ReactNative.
 
 It contains step-wise ReactNative tutorails. Beginning Demo app which includes hello world.
 
