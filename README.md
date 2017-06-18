@@ -19,17 +19,16 @@ Run following commands in terminal:
 
 
 For starting React-native project run the following commands: 
-1) react-native init filename
+1) react-native init filename \n
 This is for creating new React-native project which installs various folders including android, ios etc.
 
-2) react-native run-ios
-<br>
+2) react-native run-ios \n
 Run above command after getting inside the project folder.
 This command build your app for ios with .ip extension.
 
 OR
 
-react-native run-android
+react-native run-android \n
 Run above command after getting inside the project folder.
 This command build your app for android with .apk extension.
 
